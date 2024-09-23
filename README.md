@@ -1,0 +1,2 @@
+# newdemorepo
+myNewGitRepository
